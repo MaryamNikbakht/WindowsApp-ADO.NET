@@ -1,0 +1,14 @@
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Business\bin\Debug\Business.dll
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Business\bin\Debug\Business.pdb
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Business\bin\Debug\Dataaccess.dll
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Business\bin\Debug\Dataaccess.pdb
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Business\obj\Debug\Business.dll
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Business\obj\Debug\Business.pdb
+C:\Users\Mary\Documents\GitHub\prjRemax\Business\bin\Debug\Business.dll
+C:\Users\Mary\Documents\GitHub\prjRemax\Business\bin\Debug\Business.pdb
+C:\Users\Mary\Documents\GitHub\prjRemax\Business\bin\Debug\Dataaccess.dll
+C:\Users\Mary\Documents\GitHub\prjRemax\Business\bin\Debug\Dataaccess.pdb
+C:\Users\Mary\Documents\GitHub\prjRemax\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\GitHub\prjRemax\Business\obj\Debug\Business.dll
+C:\Users\Mary\Documents\GitHub\prjRemax\Business\obj\Debug\Business.pdb

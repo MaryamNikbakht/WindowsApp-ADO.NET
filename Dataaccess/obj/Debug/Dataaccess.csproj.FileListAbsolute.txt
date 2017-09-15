@@ -1,0 +1,10 @@
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Dataaccess\obj\Debug\Dataaccess.csprojResolveAssemblyReference.cache
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Dataaccess\bin\Debug\Dataaccess.dll
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Dataaccess\bin\Debug\Dataaccess.pdb
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Dataaccess\obj\Debug\Dataaccess.dll
+D:\LASALLE\Semester4\EventProgramming\FinalProject\prjRemax\Dataaccess\obj\Debug\Dataaccess.pdb
+C:\Users\Mary\Documents\GitHub\prjRemax\Dataaccess\bin\Debug\Dataaccess.dll
+C:\Users\Mary\Documents\GitHub\prjRemax\Dataaccess\bin\Debug\Dataaccess.pdb
+C:\Users\Mary\Documents\GitHub\prjRemax\Dataaccess\obj\Debug\Dataaccess.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\GitHub\prjRemax\Dataaccess\obj\Debug\Dataaccess.dll
+C:\Users\Mary\Documents\GitHub\prjRemax\Dataaccess\obj\Debug\Dataaccess.pdb
